@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3a8afc-6bb8-4f42-b273-11c2b6670def" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme" />
+>>>>>>> parent of 9de2b48... second commit
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
@@ -27,6 +32,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,6 +43,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> parent of 9de2b48... second commit
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -46,7 +54,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -93,7 +100,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,12 +123,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578627514731</updated>
+<<<<<<< HEAD
       <workItem from="1578627516284" duration="229000" />
+=======
+      <workItem from="1578627516284" duration="27000" />
+>>>>>>> parent of 9de2b48... second commit
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="229000" />
+=======
+    <option name="totallyTimeSpent" value="27000" />
+>>>>>>> parent of 9de2b48... second commit
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
@@ -165,6 +179,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -173,5 +188,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> parent of 9de2b48... second commit
   </component>
 </project>
